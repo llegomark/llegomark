@@ -1,6 +1,8 @@
 <h1 align="center">About Mark Anthony Llego</h1>
 
-<img align="center" src="https://github.com/llegomark/llegomark/blob/e7c6542ba83d96bd3be156779a84dda0e4ec31b2/Mark-Anthony-LLEGO.jpg">
+<p align="center">
+<img src="https://github.com/llegomark/llegomark/blob/e7c6542ba83d96bd3be156779a84dda0e4ec31b2/Mark-Anthony-LLEGO.jpg" height="500" width="350">
+</p>
 
 Mark Anthony Llego is a 31-year-old educational content writer, freelance web developer, search engine optimization (SEO) expert, professional blogger, and father of two from the Philippines.
 
@@ -10,6 +12,13 @@ Mark is passionate about education and helping others reach their goals. In his 
 
 He is also a strong advocate for social justice and equality and a supporter of former Vice President Maria Leonor “Leni” Gerona Robredo.
 
-<p>Main Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/markllego</a></p>
 <p><p>Personal Website: https://markllego.com/</p>
 <p>Twitter: https://twitter.com/markllego</p>
+
+<p>Main Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/markllego</a></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markllego)](https://git.io/streak-stats)
+
+<p>Educational Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/llegomark</a></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llegomark)](https://git.io/streak-stats)
