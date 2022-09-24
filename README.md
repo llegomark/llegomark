@@ -15,10 +15,10 @@ He is also a strong advocate for social justice and equality and a supporter of 
 <p><p>Personal Website: https://markllego.com/</p>
 <p>Twitter: https://twitter.com/markllego</p>
 
-<p>Main Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/markllego</a></p>
+<p>Personal Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/markllego</a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markllego)](https://git.io/streak-stats)
 
-<p>Educational Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/llegomark</a></p>
+<p>School Github Account: <a href="https://github.com/markllego" target="_blank">https://github.com/llegomark</a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llegomark)](https://git.io/streak-stats)
