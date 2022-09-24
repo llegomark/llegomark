@@ -1,7 +1,7 @@
 <h1 align="center">About Mark Anthony Llego</h1>
 
 <p align="center">
-<img src="https://github.com/llegomark/llegomark/blob/e7c6542ba83d96bd3be156779a84dda0e4ec31b2/Mark-Anthony-LLEGO.jpg" height="500" width="350">
+<img src="https://github.com/llegomark/llegomark/blob/1da974504877eebd82f17b6d5b5c1f345687532c/20220506_162141.jpg" height="350" width="500">
 </p>
 
 Mark Anthony Llego is a 31-year-old educational content writer, freelance web developer, search engine optimization (SEO) expert, professional blogger, and father of two from the Philippines.
