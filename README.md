@@ -4,7 +4,7 @@
 <img src="https://github.com/llegomark/llegomark/blob/1da974504877eebd82f17b6d5b5c1f345687532c/20220506_162141.jpg" height="350" width="500">
 </p>
 
-Mark Anthony Llego is a 31-year-old educational content writer, freelance web developer, search engine optimization (SEO) expert, professional blogger, and father of two from the Philippines.
+Mark Anthony Llego is a 31-year-old educational content writer, full-stack web developer, search engine optimization (SEO) expert, professional blogger, and father of two from the Philippines.
 
 He is the founder of <a href="https://www.teacherph.com/" target="_blank">TeacherPH</a>, an online community for Filipino teachers. He also owns <a href="https://nqesh.teacherph.com/" target="_blank">NQESH</a> and <a href="https://eptreviewer.teacherph.com/" target="_blank">EPT Online Reviewer,</a> a web-based review center for aspiring School Heads and Public School Teachers in the Philippines.
 
